@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/mdkawsarislam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdkawsarislam2002" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mdkawsarislam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdkawsarislam2002" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,14 +17,7 @@
 
 ![Yeasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdkawsarislam2002&theme=radical_icons=true)
 
-![](./yeasin-cover.JPG )
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdkawsarislam2002)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkawsarislam2002)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdkawsarislam2002)  
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdkawsarislam2002)
+![](./yeasin-cover.JPG)
