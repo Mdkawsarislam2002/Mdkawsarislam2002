@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Kawsar Islam Yeasin</h1>
 <h3 align="center">learner, font-end development</h3>
 
-- 🌱 I’m currently learning **Tailwind CSS , javascript**
+- 🌱 I’m currently learning **JavaScript , React.JS**
 
 - 📫 How to reach me **mdkawsarislam2002@gmail.com**
 
