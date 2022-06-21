@@ -1,11 +1,11 @@
-![](./cover.png)
+<!-- ![](./cover.png) -->
 
 <h1 align="center">Hi 👋, I'm Md Kawsar Islam Yeasin</h1>
-<h3 align="center">learner, font-end development</h3>
+<h3 align="center">Learner, Font-end Development</h3>
 
-- 🌱 I’m currently learning **JavaScript , React.JS**
+- 🌱 I’m Currently Learning **JavaScript , React.JS**
 
-- 📫 How to reach me **mdkawsarislam2002@gmail.com**
+- 📫 How To Reach me **mdkawsarislam2002@gmail.com**
 
 
 
